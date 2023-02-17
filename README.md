@@ -1,2 +1,1 @@
-# HydrogenTransitions
-Bash script that calculates the 
+This bash script calculates the electron energy levels and wavelength of light emitted during a transition between two levels in a hydrogen atom. It prompts the user to enter the initial and final energy levels of the hydrogen atom and uses the physical constants for the calculation of the energy and wavelength of the emitted light. It then calculates the energy of the transition in joules, the energy in electronvolts, and the wavelength of the emitted light in meters using the awk command (I couldn't really get it working with the bc commands). When run, the script outputs the calculated results to the user. 

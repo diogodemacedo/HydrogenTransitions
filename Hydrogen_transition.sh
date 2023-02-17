@@ -2,7 +2,7 @@
 
 #Diogo de Macedo
 
-# User input
+# User input. n1 and n2 must be positive integer values
 
 echo "Enter the initial energy state (n1) of the hydrogen atom:"
 read n1
